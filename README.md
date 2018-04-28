@@ -8,8 +8,8 @@ is a counterintuitive probability puzzle that goes as follows:
   one. Your goal is to win with a probability higher than **0.5**.
 
 The goal seems impossible to achieve, but it actually can be done using the following strategy:
-before you are shown the card, pick your own number, and when you are shown one number *A* act as
-if the other number is the one you chose (i.e. if the one you are shown is greater than the one you
+before you are shown the card, pick your own number, and when you are shown one number act as if
+the other number is the one you chose (i.e. if the one you are shown is greater than the one you
 picked, say that it is the higher of the two; if the one you are shown is smaller than the number
 you picked; say that the number you were not shown is higher).
 
